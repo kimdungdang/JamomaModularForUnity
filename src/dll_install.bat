@@ -1,0 +1,1 @@
+copy "Debug\Galunity.dll" "..\..\UNITY\Galunity\Assets\Plugins"
