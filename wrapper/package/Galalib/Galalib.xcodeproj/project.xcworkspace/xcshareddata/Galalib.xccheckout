@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBE9BCA6-E8AB-4847-AE9C-BAC520A01C3C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Galalib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2C1F1CA8-833E-4F00-BB4C-86E6340C6540</key>
+		<string>git://github.com/jamoma/JamomaCore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Modular/implementations/Example/Galalib/Galalib.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2C1F1CA8-833E-4F00-BB4C-86E6340C6540</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git://github.com/jamoma/JamomaCore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2C1F1CA8-833E-4F00-BB4C-86E6340C6540</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2C1F1CA8-833E-4F00-BB4C-86E6340C6540</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Core</string>
+		</dict>
+	</array>
+</dict>
+</plist>
